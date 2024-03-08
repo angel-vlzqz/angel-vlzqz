@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Simple Calculator](https://github.com/angel-vlzqz/JS-Calculator)
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **Full stack app**
 
